@@ -8,6 +8,11 @@
     </div>
     <hr/>
     <div align="center">
+        <style>
+            a {
+                text-decoration: none;
+            }
+        </style>
         <h4>联系我</h4>
         <h6><del><i>ps:为什么会有删不掉的超链接的下划线啊喂</i></del></h6>
         <a href="https://space.bilibili.com/495882959">
