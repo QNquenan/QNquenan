@@ -8,29 +8,25 @@
     </div>
     <hr/>
     <div align="center">
-        <style>
-            a {
-                text-decoration: none;
-            }
-        </style>
         <h4>联系我</h4>
         <h6><del><i>ps:为什么会有删不掉的超链接的下划线啊喂</i></del></h6>
-        <a href="https://space.bilibili.com/495882959">
+        <a href="https://space.bilibili.com/495882959" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/bilibili-FB7299?logo=bilibili&logoColor=fff&style=flat" alt="Blibili Badge">
         </a>&nbsp;&nbsp;
-        <a href="https://twitter.com/QNquenan">
+        <a href="https://twitter.com/QNquenan" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/Twitter-1897F1?logo=twitter&logoColor=fff&style=flat" alt="Twitter Badge">
         </a>&nbsp;&nbsp;
-        <a href="https://www.instagram.com/qnquenan/">
+        <a href="https://www.instagram.com/qnquenan/" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/Instagram-FE1A59?logo=instagram&logoColor=fff&style=flat" alt="Instagram Badge">
         </a>&nbsp;&nbsp;
-        <a href="https://www.facebook.com/profile.php?id=61553572113166">
+        <a href="https://www.facebook.com/profile.php?id=61553572113166" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=flat" alt="Facebook Badge">
         </a>&nbsp;&nbsp;
-        <a href="https://www.pixiv.net/users/76050975">
+        <a href="https://www.pixiv.net/users/76050975" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/pixiv-0196FA?logo=pixiv&logoColor=fff&style=flat" alt="pixiv Badge">
         </a>&nbsp;&nbsp;
     </div>
+
     <br/>
     <div align="center">
         <div>
