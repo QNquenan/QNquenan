@@ -1,5 +1,5 @@
 <div>
-    <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&text=Hi%20Welcome&textBg=false&animation=fadeIn&desc=I%20am%20Quenan&descAlignY=70&descSize=30" />
+    [](https://capsule-render.vercel.app/api?type=rounded&height=300&color=timeGradient&text=Hi%20Welcome&textBg=false&animation=fadeIn&desc=I%20am%20Quenan&descAlignY=70&descSize=30)
     
     <div align="center">
         <a href="https://quenan.top" align="center">
