@@ -1,4 +1,6 @@
 <div>
+    <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&text=Hi%20Welcome&textBg=false&animation=fadeIn&desc=I%20am%20Quenan&descAlignY=70&descSize=30" />
+    
     <div align="center">
         <a href="https://quenan.top" align="center">
             <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=2F2F2F&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub" alt="Typing SVG" />
