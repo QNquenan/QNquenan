@@ -8,7 +8,7 @@
 
 <p align="center">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=qnquenan&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=github"/>
-    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=Xiaokang2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qnquenan&locale=cn&line_height=33&theme=&langs_count=5"/>
 </p>
 
 <p align="center">
