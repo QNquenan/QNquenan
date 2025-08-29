@@ -7,5 +7,10 @@
 </p>
 
 <p align="center">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=qnquenan&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=github"/>
+    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=Xiaokang2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+</p>
+
+<p align="center">
     <img src="https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/hacker_a.gif">
 </p>
