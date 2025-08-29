@@ -12,5 +12,11 @@
 </p>
 
 <p align="center">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={YOUR_USERNAME}&theme=github-compact&hide_border=true&area=true" />
+    
+</p>
+
+
+<p align="center">
     <img src="https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/hacker_a.gif">
 </p>
