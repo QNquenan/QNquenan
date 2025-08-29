@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-    <img width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=qnquenan&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=github"/>
-    <img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qnquenan&locale=cn&line_height=33&theme=&langs_count=5"/>
+    <img width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=qnquenan&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true&include_all_commits=true"/>
+    <img width="400" height="300" src="https://streak-stats.demolab.com?user=qnquenan&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
