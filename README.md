@@ -15,6 +15,12 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=qnquenan&theme=github-compact&hide_border=true&area=true&bg_color=00000000&color=F9AEAC&line=F9AEAC&point=F9AEAC&title_color=F9AEAC&area_color=F9AEAC&locale=zh" />
 </p>
 
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={YOUR_USERNAME}&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+</p>
+
+
+
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/hacker_a.gif">
