@@ -21,12 +21,31 @@
 </div>
 
 <div align="center">
-    <h4>我的技术栈🫡</h4>
+    <h2>我的技术栈🫡</h2>
+    <h3>学了些皮毛的语言🥲</h3>
+    <p align="center">
+        <img align="center" src="https://skillicons.dev/icons?i=html,css,js,md,mysql,php,py,xd" />
+    </p>
+    <h4>堪堪入门的框架😭</h4>
+    <p align="center">
+        <img align="center" src="https://skillicons.dev/icons?i=jquery,less,vite,vue" />
+    </p>
+</div>
+
+<br />
+
+<div align="center">
+    <h2>找到我🌹</h2>
+    <a href="https://space.bilibili.com/495882959" target="_blank"><img  align=center src="https://img.shields.io/badge/哔哩哔哩-爱咕咕的楠-%23fda4af?style=flat"/></a>
+    <a href="https://quenan.cn/" target="_blank"><img  align=center src="https://img.shields.io/badge/个人主页-鹊楠的主页-%23f0dc4e?style=flat"/></a>
+    <a href="https://space.bilibili.com/495882959" target="_blank"><img  align=center src="https://img.shields.io/badge/博客-鹊楠的小窝-%23fe8599?style=flat"/></a>
+    <a href="mailto:qn2097271942@outlook.com" target="_blank"><img  align=center src="https://img.shields.io/badge/邮箱-qn2097271942@outlook.com-%231890ff?style=flat"/></a>
 </div>
 
 
 
 
 <p align="center">
+    <h3>放一只努力码字的小猫😋</h3>
     <img src="https://raw.githubusercontent.com/heartyang520/HeartYang.github.io/main/share/hacker_a.gif">
 </p>
