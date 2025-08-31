@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-    <p color="#F9AEAC" font-weight="20">我的技术栈🫡</p>
+    <h4>我的技术栈🫡</h4>
 </div>
 
 
